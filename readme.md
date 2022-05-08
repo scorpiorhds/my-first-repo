@@ -1,30 +1,22 @@
-# this is a large heading
+# Ing. Jose Troncoso
 
-## this is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Santo Domingo, in the Dominican Republic.
 
-- This is
-- an unordered
-- list
+### Movies
 
-1. This is
-2. an ordered
-3. list
+Some one movies that i likes are:
 
-Here is `some code` in the middle of a sentence.
+- *En busca de la felicidad* With Will Smith
+- *No se aceptan devoluciones* With Eugenio Derbez
 
-```
-This is 
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Espaguetis
+2. Mondongo
+3. Pastas en general
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
+The best way to get in touch me is [on Instagram](https://instagram.com/ing.jose_troncoso).
